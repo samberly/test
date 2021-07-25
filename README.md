@@ -6,3 +6,8 @@
 print('hello,world')
 ```
 
+
+```sql
+select * from emp;
+
+```
