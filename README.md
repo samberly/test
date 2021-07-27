@@ -1,13 +1,13 @@
-# test
-仅供练习
+[toc]
 
+# Oracle
 
-```py
-print('hello,world')
-```
+## 安装
 
 
 ```sql
 select * from emp;
 
 ```
+
+## DDL语句
